@@ -1,2 +1,3 @@
-# discover-js
-Discover RocketSeat 
+# Discover Rocketseat
+
+Aprendizado Javascript
